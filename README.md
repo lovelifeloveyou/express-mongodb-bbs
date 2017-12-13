@@ -1,5 +1,10 @@
 ## 使用 Express + MongoDB 搭建 simple bbs
 
+## 使用方法
+>  npm install
+
+> node index.js
+
 ## 开发环境
 
 - Node.js
